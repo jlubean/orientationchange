@@ -1,5 +1,5 @@
-"orientationchange" Event Polyfill
-==================================
+orientationchange Polyfill
+==========================
 
 This polyfill allows you to use "window.orientation" and to bind to the "orientationchange" event.  It has
 no dependencies on any libraries, but has support for using jQuery to bind to the "orientationchange" event.

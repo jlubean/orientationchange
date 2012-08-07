@@ -1,5 +1,5 @@
 /**
- * "orientationchange" Event Polyfill
+ * orientationchange Polyfill
  * Copyright (c) 2012, Jason LuBean (@jlubean)
  * Licensed under the MIT license.
  *
